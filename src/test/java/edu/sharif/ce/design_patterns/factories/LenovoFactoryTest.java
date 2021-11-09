@@ -1,5 +1,7 @@
 package edu.sharif.ce.design_patterns.factories;
 
+import edu.sharif.ce.design_patterns.Laptops.LenovoLaptop;
+import edu.sharif.ce.design_patterns.Mobiles.LenovoMobile;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,5 +1,7 @@
 package edu.sharif.ce.design_patterns.factories;
 
+import edu.sharif.ce.design_patterns.Laptops.AppleLaptop;
+import edu.sharif.ce.design_patterns.Mobiles.AppleMobile;
 import org.junit.Assert;
 import org.junit.Test;
 
